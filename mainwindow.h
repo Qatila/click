@@ -7,7 +7,7 @@
 #include <QMainWindow>
 #include <QPushButton>
 #include <QLabel>
-#include <Qtimer>
+#include <QTimer>
 #include <vector>
 
 class MainWindow : public QMainWindow
